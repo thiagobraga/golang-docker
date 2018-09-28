@@ -1,6 +1,6 @@
 # Golang Docker
 
-Golang example using Docker with Alpine Linux images.
+Golang example using Docker with Alpine Linux image.
 
 ## Installation
 
