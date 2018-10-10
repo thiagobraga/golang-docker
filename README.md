@@ -7,8 +7,8 @@ Golang example using Docker with Alpine Linux image.
 ``` sh
 git clone https://github.com/thiagobraga/golang-docker
 cd golang-docker
-docker build -t golang-docker-example .
-docker run golang-docker-example
+docker build -t golang-docker .
+docker run golang-docker
 
 # >>> Output
 # Hello, world.
